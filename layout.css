@@ -23,10 +23,32 @@ box-sizing:             border-box;
 }
 
 .palm {
-  background: url("https://i.imgur.com/o7RKcJH.jpg")  no-repeat padding-box;
-border-radius: 15px;
-  height: 350px;
+  background: url("https://i.imgur.com/o7RKcJH.jpg")  no-repeat ;
+background-size: cover;
+  border-radius: 15px;
+height: 50vh;
+ 
 }
+
+.media-object {
+   display: flex;
+  align-items: flex-start; 
+  
+}
+
+.media-text {
+  flex: 1;
+  padding: 10px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
 
 
 
