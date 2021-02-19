@@ -142,7 +142,16 @@ opacity: 1;
   margin-bottom: 60px;
 }
 
-
+.font-8 {
+  text-align: center;
+font: normal normal bold 12px/15px Montserrat;
+letter-spacing: 2.4px;
+color: #B2ACBA;
+padding-top: 22px;
+  padding-bottom: 23px;
+  background-color: white;
+opacity: 1;
+}
 
 
 
