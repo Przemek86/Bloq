@@ -4,7 +4,7 @@
 box-sizing:             border-box;
 }
 
-.btn-1, .logo-text, .btn-2 {
+.btn-1, .logo-text, .btn-2, .btn-3, .btn-4 {
   display: inline-block;
 }
 
@@ -48,7 +48,13 @@ height: 50vh;
   
 }
 
-
+.white-background {
+  background-color: white;
+  background-size: cover;
+   border-radius: 15px;
+height: 50vh;
+  margin-top: 15px;
+}
 
 
 

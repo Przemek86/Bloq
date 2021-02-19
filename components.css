@@ -74,3 +74,77 @@
   padding-left: 60px;
   color: white;
 }
+
+.font-4 {
+  font-size: 15px;
+  padding-left: 60px;
+  color: white;
+  opacity: 1;
+  padding-top: 15px;
+}
+
+.btn-3 {
+  border-radius: 20px;
+  border-color: white;
+  font-weight: bold;
+  color: white;
+  margin-left: 60px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 15px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  opacity: 1;
+  }
+
+.font-5 {
+padding-top: 60px;
+  padding-left: 60px;
+  font: normal normal bold 12px/15px Montserrat;
+letter-spacing: 2.4px;
+color: #B2ACBA;
+text-transform: uppercase;
+opacity: 1;
+}
+
+.font-6 {
+  font: normal normal bold 40px/50px Montserrat;
+letter-spacing: 0px;
+color: #211138;
+opacity: 1;
+  padding-top: 15px;
+  padding-left: 60px;
+}
+
+.font-7 {
+ padding-top: 15px;
+  padding-left: 60px;
+  font: normal normal normal 20px/30px Montserrat;
+letter-spacing: 0px;
+color: #211138;
+opacity: 1;
+}
+
+.btn-4 {
+  border-radius: 20px;
+  border-color: #6200EA;
+  font-weight: bold;
+  color: #6200EA;
+  margin-left: 60px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 15px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  opacity: 1;
+  margin-bottom: 60px;
+}
+
+
+
+
+
+
+
