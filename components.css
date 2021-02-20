@@ -48,6 +48,7 @@
   color: white;
   font-weight: bold;
   border-radius: 15px;
+  margin-bottom: 1px;
 }
 
 .font-1 {
@@ -152,6 +153,43 @@ padding-top: 22px;
   background-color: white;
 opacity: 1;
 }
+
+.photo-2 {
+  height: 320px;
+  width: 100%;
+  border-radius: 15px 15px 0px 0px;
+opacity: 1;
+}
+
+.btn-5 {
+  text-align: left;
+font: normal normal bold 12px/15px Montserrat;
+letter-spacing: 2.4px;
+color: #211138;
+text-transform: uppercase;
+opacity: 1;
+  padding-left: 30px;
+  padding-top: 17px;
+  padding-bottom: 18px;
+  background-color: #FFFFFF;
+  margin: 1px;
+  width: 100%;
+  border: 1px solid lightgrey; 
+  
+}
+
+.footer {
+
+  width: 100vw;
+  font: normal normal bold 12px/15px Montserrat;
+letter-spacing: 2.4px;
+text-transform: uppercase;
+opacity: 1;
+  background-color: #211138;
+  height: 100px;
+  margin-top: 100px;
+}
+
 
 
 
