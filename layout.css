@@ -1,72 +1,83 @@
+/*-------------------------------------*\
+                 LAYOUT
+\*-------------------------------------*/
+
+/**------------------------------------*\
+*
+* I used bootstrap to create the page
+\*-------------------------------------*/
+
+
+
+
 .container-fluid {
-   font-family:  	'Montserrat', sans-serif;
-  
-box-sizing:             border-box;
+  font-family:  	        'Montserrat', sans-serif;
+  box-sizing:               border-box;
 }
 
 .btn-1, .logo-text, .btn-2, .btn-3, .btn-4, .btn-5 {
-  display: inline-block;
+  display:                  inline-block;
 }
 
 .btn-1 {
-  margin-left: 20vw;
-  margin-top:  26px;
+  margin-left:              20vw;
+  margin-top:               26px;
 }
 
 .logo-text {
-  text-align: center;
-  margin-left: 20vw;
+  text-align:               center;
+  margin-left:              20vw;
 }
 
 .row-2 {
-  height: 80px;
+  height:                   80px;
 }
 
 .palm {
-  background: url("https://i.imgur.com/o7RKcJH.jpg")  no-repeat ;
-background-size: cover;
-  border-radius: 15px;
-height: 50vh;
+  background:               url("https://i.imgur.com/o7RKcJH.jpg")  no-repeat ;
+background-size:            cover;
+  border-radius:            15px;
+height:                     50vh;
  
 }
 
 .media-object {
-   display: flex;
-  align-items: flex-start; 
+   display:                 flex;
+  align-items:              flex-start; 
   
 }
 
 .media-text {
-  flex: 1;
-  padding: 10px;
+  flex:                     1;
+  padding:                  10px;
 }
 
 .center {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display:                  flex;
+  align-items:              center;
+  justify-content:          center;
   
 }
 
 .white-background {
-  background-color: white;
-  background-size: cover;
-   border-radius: 15px;
-height: 55vh;
-  margin-top: 15px;
-  padding-bottom: 35px;
-  margin-bottom: 15px;
+  background-color:         white;
+  background-size:          cover;
+   border-radius:           15px;
+height:                     55vh;
+  margin-top:               15px;
+  padding-bottom:           35px;
+  margin-bottom:            15px;
 }
 
 .footer {
- display: flex;
-  align-items: center;
-  justify-content: center;
+ display:                   flex;
+  align-items:              center;
+  justify-content:          center;
 }
 
 @media (max-width: 768px) {
   .white-background  {
-    height: 75vh;
+    height:                 75vh;
   }
 }
 
